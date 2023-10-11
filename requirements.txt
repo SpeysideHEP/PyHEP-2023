@@ -1,0 +1,4 @@
+spey==0.1.2
+spey-pyhf==0.1.1
+numpy==1.23.5
+matplotlib==3.6.2
