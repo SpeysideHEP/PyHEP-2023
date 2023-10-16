@@ -5,6 +5,8 @@
 [![doc](https://img.shields.io/static/v1?style=plastic&label&message=Documentation&logo=gitbook&logoColor=white&color=gray)](https://spey.readthedocs.io/)
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/SpeysideHEP/PyHEP-2023/HEAD?labpath=intro_spey.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10008261.svg)](https://doi.org/10.5281/zenodo.10008261)
+
 
 This repository includes Spey introduction presented in PyHEP 2023. Contribution link can be found [here](https://indico.cern.ch/event/1252095/timetable/#8-spey-smooth-inference-for-re).
 
